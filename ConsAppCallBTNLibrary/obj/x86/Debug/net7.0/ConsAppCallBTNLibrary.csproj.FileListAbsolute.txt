@@ -1,0 +1,15 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\ConsAppCallBTNLibrary.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\ConsAppCallBTNLibrary.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\ConsAppCallBTNLibrary.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\ConsAppCallBTNLibrary.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\ConsAppCallBTNLibrary.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.csproj.AssemblyReference.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.AssemblyInfoInputs.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.AssemblyInfo.cs
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.csproj.CoreCompileInputs.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\refint\ConsAppCallBTNLibrary.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ConsAppCallBTNLibrary.genruntimeconfig.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\obj\x86\Debug\net7.0\ref\ConsAppCallBTNLibrary.dll

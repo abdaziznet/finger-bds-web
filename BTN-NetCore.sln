@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FingerBTNWebCore", "FingerBTNWebCore\FingerBTNWebCore.csproj", "{89E4CBC1-94B9-4022-9761-C5C02EF63D51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsAppSimulatorBDSWEB", "ConsAppSimulatorBDSWEB\ConsAppSimulatorBDSWEB.csproj", "{A5F49668-B850-4830-B2C8-9B59229B0D05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsAppCallBTNLibrary", "ConsAppCallBTNLibrary\ConsAppCallBTNLibrary.csproj", "{FD0F8E89-12EF-4B15-858F-3F2E10AE9CAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTNFingerWebAPI", "BTNFingerWebAPI\BTNFingerWebAPI\BTNFingerWebAPI.csproj", "{40ADC52A-CD82-4038-9E92-6A4029F0777D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleWebAPI", "SampleWebAPI\SampleWebAPI.csproj", "{DCD30D6A-B50A-4E4E-A984-B0421043000F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSWebApp", "BDSWebApp\BDSWebApp.csproj", "{6A264142-D60F-4916-BF4A-6879FFE2B556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E4CBC1-94B9-4022-9761-C5C02EF63D51}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{89E4CBC1-94B9-4022-9761-C5C02EF63D51}.Debug|Any CPU.Build.0 = Debug|x86
+		{89E4CBC1-94B9-4022-9761-C5C02EF63D51}.Release|Any CPU.ActiveCfg = Release|x86
+		{89E4CBC1-94B9-4022-9761-C5C02EF63D51}.Release|Any CPU.Build.0 = Release|x86
+		{A5F49668-B850-4830-B2C8-9B59229B0D05}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A5F49668-B850-4830-B2C8-9B59229B0D05}.Debug|Any CPU.Build.0 = Debug|x86
+		{A5F49668-B850-4830-B2C8-9B59229B0D05}.Release|Any CPU.ActiveCfg = Release|x86
+		{A5F49668-B850-4830-B2C8-9B59229B0D05}.Release|Any CPU.Build.0 = Release|x86
+		{FD0F8E89-12EF-4B15-858F-3F2E10AE9CAB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FD0F8E89-12EF-4B15-858F-3F2E10AE9CAB}.Debug|Any CPU.Build.0 = Debug|x86
+		{FD0F8E89-12EF-4B15-858F-3F2E10AE9CAB}.Release|Any CPU.ActiveCfg = Release|x86
+		{FD0F8E89-12EF-4B15-858F-3F2E10AE9CAB}.Release|Any CPU.Build.0 = Release|x86
+		{40ADC52A-CD82-4038-9E92-6A4029F0777D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{40ADC52A-CD82-4038-9E92-6A4029F0777D}.Debug|Any CPU.Build.0 = Debug|x86
+		{40ADC52A-CD82-4038-9E92-6A4029F0777D}.Release|Any CPU.ActiveCfg = Release|x86
+		{40ADC52A-CD82-4038-9E92-6A4029F0777D}.Release|Any CPU.Build.0 = Release|x86
+		{DCD30D6A-B50A-4E4E-A984-B0421043000F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DCD30D6A-B50A-4E4E-A984-B0421043000F}.Debug|Any CPU.Build.0 = Debug|x86
+		{DCD30D6A-B50A-4E4E-A984-B0421043000F}.Release|Any CPU.ActiveCfg = Release|x86
+		{DCD30D6A-B50A-4E4E-A984-B0421043000F}.Release|Any CPU.Build.0 = Release|x86
+		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1B4CBC-A20A-4DA9-941C-E010D948579B}
+	EndGlobalSection
+EndGlobal

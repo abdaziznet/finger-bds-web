@@ -1,0 +1,12 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\bin\x86\Debug\net7.0\FingerBTNWebCore.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\bin\x86\Debug\net7.0\FingerBTNWebCore.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\bin\x86\Debug\net7.0\FingerBTNWebCore.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.csproj.AssemblyReference.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.AssemblyInfoInputs.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.AssemblyInfo.cs
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.csproj.CoreCompileInputs.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\refint\FingerBTNWebCore.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\FingerBTNWebCore.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\obj\x86\Debug\net7.0\ref\FingerBTNWebCore.dll

@@ -1,0 +1,903 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "GenHTTP.Api/6.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/GenHTTP.Api.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Api.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Core/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Engine": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.Layouting": "6.4.0",
+          "GenHTTP.Modules.Practices": "6.4.0"
+        }
+      },
+      "GenHTTP.Engine/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.ErrorHandling": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0",
+          "GenHTTP.Modules.Placeholders": "6.4.0",
+          "PooledAwait": "1.0.49",
+          "System.IO.Pipelines": "6.0.3"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Engine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Engine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Basics/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "System.Text.Json": "6.0.5"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Basics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Basics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.ClientCaching/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "PooledAwait": "1.0.49"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.ClientCaching.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.ClientCaching.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Compression/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Compression.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Compression.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Conversion/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "PooledAwait": "1.0.49"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Conversion.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Conversion.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.ErrorHandling/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Pages": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.ErrorHandling.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.ErrorHandling.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.IO/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.Pages": "6.4.0",
+          "PooledAwait": "1.0.49"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.IO.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.IO.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Layouting/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Layouting.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Layouting.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Pages/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "Microsoft.IO.RecyclableMemoryStream": "2.2.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Pages.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Pages.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Placeholders/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Placeholders.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Placeholders.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Practices/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.ClientCaching": "6.4.0",
+          "GenHTTP.Modules.Compression": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0",
+          "GenHTTP.Modules.Security": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Practices.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Practices.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Reflection/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Conversion": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Reflection.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Reflection.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Security/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Security.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Security.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GenHTTP.Modules.Webservices/6.4.0": {
+        "type": "package",
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.Conversion": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0",
+          "GenHTTP.Modules.Layouting": "6.4.0",
+          "GenHTTP.Modules.Reflection": "6.4.0"
+        },
+        "compile": {
+          "lib/net6.0/GenHTTP.Modules.Webservices.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Webservices.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.IO.RecyclableMemoryStream/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "PooledAwait/1.0.49": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/PooledAwait.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/PooledAwait.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.IO.Pipelines/6.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.Text.Encodings.Web/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll": {
+            "assetType": "runtime",
+            "rid": "browser"
+          }
+        }
+      },
+      "System.Text.Json/6.0.5": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "FingerBTNWebCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FingerBTNWebCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FingerBTNWebCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenHTTP.Api/6.4.0": {
+      "sha512": "6wl1HQzjrJLnyOZJMg5G+35E7OOtvajnNmuAxd6nM7OY2iyilHf03uxOpDQLhwH4W6B3lYRBa5qCBZsdXJCYow==",
+      "type": "package",
+      "path": "genhttp.api/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.api.6.4.0.nupkg.sha512",
+        "genhttp.api.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Api.dll",
+        "lib/net6.0/GenHTTP.Api.xml"
+      ]
+    },
+    "GenHTTP.Core/6.4.0": {
+      "sha512": "e4IugbWB1CER4zSMif2+fGH+cpuDNhTFLkQ4SmX3qVvriQN8Vovx8CNdKdmD4CUzFYHzdprJMDbJH5DU9/3K/Q==",
+      "type": "package",
+      "path": "genhttp.core/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.core.6.4.0.nupkg.sha512",
+        "genhttp.core.nuspec",
+        "images/icon.png"
+      ]
+    },
+    "GenHTTP.Engine/6.4.0": {
+      "sha512": "xhZMyOpmmqUdYdm9olf48uAg9mdUnwxh3nnQPSiLSc4efcHDDt2Wre2oY/bPGlaImL5H9ychxtDwwMvDmVyoWQ==",
+      "type": "package",
+      "path": "genhttp.engine/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.engine.6.4.0.nupkg.sha512",
+        "genhttp.engine.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Engine.dll",
+        "lib/net6.0/GenHTTP.Engine.xml"
+      ]
+    },
+    "GenHTTP.Modules.Basics/6.4.0": {
+      "sha512": "02omssEFV4uTDbJt9QXkudkirjeOWD2WYe8E+sd33cvO6W34V3BScRjRuW4HVoQjdhIEtwihzXFPL9flRBz5Qg==",
+      "type": "package",
+      "path": "genhttp.modules.basics/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.basics.6.4.0.nupkg.sha512",
+        "genhttp.modules.basics.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Basics.dll",
+        "lib/net6.0/GenHTTP.Modules.Basics.xml"
+      ]
+    },
+    "GenHTTP.Modules.ClientCaching/6.4.0": {
+      "sha512": "ZVvG6UO93OVn+7zGIPiZGao3ylLo7EbXFVzMrYIfrWXxEF9yOTQUCd1LRqXOacSmFA3rhkuP1vcZDhhBLFpf5Q==",
+      "type": "package",
+      "path": "genhttp.modules.clientcaching/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.clientcaching.6.4.0.nupkg.sha512",
+        "genhttp.modules.clientcaching.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.ClientCaching.dll",
+        "lib/net6.0/GenHTTP.Modules.ClientCaching.xml"
+      ]
+    },
+    "GenHTTP.Modules.Compression/6.4.0": {
+      "sha512": "PzIGRneyA4QDf4FPNPPAKTjYaqdpEQVf2aRqdsdk8PLvLazE3OdBCF2Utg3IrP4an4E3a1r1aABdPPNLK7Ef0Q==",
+      "type": "package",
+      "path": "genhttp.modules.compression/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.compression.6.4.0.nupkg.sha512",
+        "genhttp.modules.compression.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Compression.dll",
+        "lib/net6.0/GenHTTP.Modules.Compression.xml"
+      ]
+    },
+    "GenHTTP.Modules.Conversion/6.4.0": {
+      "sha512": "LIKsg4waC7FFR40/X3IEytt63Tf4veg45YeMViglnFBSNOCnT2uuCDFbLkM6jtoUG6HF+Z2wa/iTGzL796M4cg==",
+      "type": "package",
+      "path": "genhttp.modules.conversion/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.conversion.6.4.0.nupkg.sha512",
+        "genhttp.modules.conversion.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Conversion.dll",
+        "lib/net6.0/GenHTTP.Modules.Conversion.xml"
+      ]
+    },
+    "GenHTTP.Modules.ErrorHandling/6.4.0": {
+      "sha512": "aopfytLuUet/3PcRbzDQxFoJPd6j0uODxela57yjiRrZ57bpQnqN4xygux35u5iicPMhpXfFV8VzMGGJNvPcDQ==",
+      "type": "package",
+      "path": "genhttp.modules.errorhandling/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.errorhandling.6.4.0.nupkg.sha512",
+        "genhttp.modules.errorhandling.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.ErrorHandling.dll",
+        "lib/net6.0/GenHTTP.Modules.ErrorHandling.xml"
+      ]
+    },
+    "GenHTTP.Modules.IO/6.4.0": {
+      "sha512": "u9h89dSJT6vJMXCOyl/CT3EadgyJ2rGZMMcY01ixk5cg4OAW9GWOlCzt+SH+AdhZf+G1MM7VBqI23Jxhhrgz0A==",
+      "type": "package",
+      "path": "genhttp.modules.io/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.io.6.4.0.nupkg.sha512",
+        "genhttp.modules.io.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.IO.dll",
+        "lib/net6.0/GenHTTP.Modules.IO.xml"
+      ]
+    },
+    "GenHTTP.Modules.Layouting/6.4.0": {
+      "sha512": "7SFNU8EF59aJK+gwLrR1F1A67IbYrT4Twb8Lw8wV15ByPAA4hmfgCtZkvdYUZQAvp6QIO9K9qRxbaGzK4v1u+Q==",
+      "type": "package",
+      "path": "genhttp.modules.layouting/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.layouting.6.4.0.nupkg.sha512",
+        "genhttp.modules.layouting.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Layouting.dll",
+        "lib/net6.0/GenHTTP.Modules.Layouting.xml"
+      ]
+    },
+    "GenHTTP.Modules.Pages/6.4.0": {
+      "sha512": "zrgvlLREt3EUuuBA1DbpBDAI687Ry6n+CVbJGcLy5OWIDIv3zrYqLTUtpEv56Dwq4ajnVr28MIVX4p0a6oh/Sw==",
+      "type": "package",
+      "path": "genhttp.modules.pages/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.pages.6.4.0.nupkg.sha512",
+        "genhttp.modules.pages.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Pages.dll",
+        "lib/net6.0/GenHTTP.Modules.Pages.xml"
+      ]
+    },
+    "GenHTTP.Modules.Placeholders/6.4.0": {
+      "sha512": "p3USxx+NEfY4+H+gaFIYEnnv9ufoqbIsz0tTTNtSjXXc8FRqr5TOrFO5T2fSgtVAsv21FT3/eL2L18SUqMETTQ==",
+      "type": "package",
+      "path": "genhttp.modules.placeholders/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.placeholders.6.4.0.nupkg.sha512",
+        "genhttp.modules.placeholders.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Placeholders.dll",
+        "lib/net6.0/GenHTTP.Modules.Placeholders.xml"
+      ]
+    },
+    "GenHTTP.Modules.Practices/6.4.0": {
+      "sha512": "SxGDRr8F8Pa+Ah2TBCI2YCFvwpgFrhsh2rEyuze5CM1d4+QKZ971yUnpSKTYr8Sa3TvBpk301rMkpb3SVIQcmQ==",
+      "type": "package",
+      "path": "genhttp.modules.practices/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.practices.6.4.0.nupkg.sha512",
+        "genhttp.modules.practices.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Practices.dll",
+        "lib/net6.0/GenHTTP.Modules.Practices.xml"
+      ]
+    },
+    "GenHTTP.Modules.Reflection/6.4.0": {
+      "sha512": "vygfsJO7NzCNJaTcjSAT6WsROdgDU0y3AN7ACBOjcL8P90F8gmO0INddHiPgzhZZpVR4rZEHAR9L6yc5SX+SYQ==",
+      "type": "package",
+      "path": "genhttp.modules.reflection/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.reflection.6.4.0.nupkg.sha512",
+        "genhttp.modules.reflection.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Reflection.dll",
+        "lib/net6.0/GenHTTP.Modules.Reflection.xml"
+      ]
+    },
+    "GenHTTP.Modules.Security/6.4.0": {
+      "sha512": "jJRwibx7YMWGdN+Td3K98GITHg9ruE0UMfk9PG+7MVXxchzvz9uGeee7b698btyXQYjgstGL/vJ+9BYdyMVizA==",
+      "type": "package",
+      "path": "genhttp.modules.security/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.security.6.4.0.nupkg.sha512",
+        "genhttp.modules.security.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Security.dll",
+        "lib/net6.0/GenHTTP.Modules.Security.xml"
+      ]
+    },
+    "GenHTTP.Modules.Webservices/6.4.0": {
+      "sha512": "igxKOAvC5Yk4r4iHGyLharClzJjjmIXxW+ouLJ4RIM8+2eqX9FM0K9A1A/UCYw/XjAd5uA4/JWtMPIQLI5Nk4w==",
+      "type": "package",
+      "path": "genhttp.modules.webservices/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "genhttp.modules.webservices.6.4.0.nupkg.sha512",
+        "genhttp.modules.webservices.nuspec",
+        "icon.png",
+        "lib/net6.0/GenHTTP.Modules.Webservices.dll",
+        "lib/net6.0/GenHTTP.Modules.Webservices.xml"
+      ]
+    },
+    "Microsoft.IO.RecyclableMemoryStream/2.2.0": {
+      "sha512": "uyjY/cqomw1irT4L7lDeg4sJ36MsjHg3wKqpGrBAdzvZaxo85yMF+sAA9RIzTV92fDxuUzjqksMqA0+SNMkMgA==",
+      "type": "package",
+      "path": "microsoft.io.recyclablememorystream/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net462/Microsoft.IO.RecyclableMemoryStream.dll",
+        "lib/net462/Microsoft.IO.RecyclableMemoryStream.xml",
+        "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll",
+        "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.xml",
+        "lib/netcoreapp2.1/Microsoft.IO.RecyclableMemoryStream.dll",
+        "lib/netcoreapp2.1/Microsoft.IO.RecyclableMemoryStream.xml",
+        "lib/netstandard2.0/Microsoft.IO.RecyclableMemoryStream.dll",
+        "lib/netstandard2.0/Microsoft.IO.RecyclableMemoryStream.xml",
+        "lib/netstandard2.1/Microsoft.IO.RecyclableMemoryStream.dll",
+        "lib/netstandard2.1/Microsoft.IO.RecyclableMemoryStream.xml",
+        "microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512",
+        "microsoft.io.recyclablememorystream.nuspec"
+      ]
+    },
+    "PooledAwait/1.0.49": {
+      "sha512": "stq3Af/4ptnLFbtrniDcZCeSl0JtZoiTnPHm1pkJ6sQM07Jj1zG9NN5rOP5dVh2VNSblloKTxBVAnBJ8MktlFw==",
+      "type": "package",
+      "path": "pooledawait/1.0.49",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/PooledAwait.dll",
+        "lib/net45/PooledAwait.xml",
+        "lib/net461/PooledAwait.dll",
+        "lib/net461/PooledAwait.xml",
+        "lib/netcoreapp3.0/PooledAwait.dll",
+        "lib/netcoreapp3.0/PooledAwait.xml",
+        "lib/netstandard1.3/PooledAwait.dll",
+        "lib/netstandard1.3/PooledAwait.xml",
+        "lib/netstandard2.0/PooledAwait.dll",
+        "lib/netstandard2.0/PooledAwait.xml",
+        "lib/netstandard2.1/PooledAwait.dll",
+        "lib/netstandard2.1/PooledAwait.xml",
+        "pooledawait.1.0.49.nupkg.sha512",
+        "pooledawait.nuspec"
+      ]
+    },
+    "System.IO.Pipelines/6.0.3": {
+      "sha512": "ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==",
+      "type": "package",
+      "path": "system.io.pipelines/6.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.IO.Pipelines.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.IO.Pipelines.dll",
+        "lib/net461/System.IO.Pipelines.xml",
+        "lib/net6.0/System.IO.Pipelines.dll",
+        "lib/net6.0/System.IO.Pipelines.xml",
+        "lib/netcoreapp3.1/System.IO.Pipelines.dll",
+        "lib/netcoreapp3.1/System.IO.Pipelines.xml",
+        "lib/netstandard2.0/System.IO.Pipelines.dll",
+        "lib/netstandard2.0/System.IO.Pipelines.xml",
+        "system.io.pipelines.6.0.3.nupkg.sha512",
+        "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Encodings.Web/6.0.0": {
+      "sha512": "Vg8eB5Tawm1IFqj4TVK1czJX89rhFxJo9ELqc/Eiq0eXy13RK00eubyU6TJE6y+GQXjyV5gSfiewDUZjQgSE0w==",
+      "type": "package",
+      "path": "system.text.encodings.web/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Text.Encodings.Web.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Text.Encodings.Web.dll",
+        "lib/net461/System.Text.Encodings.Web.xml",
+        "lib/net6.0/System.Text.Encodings.Web.dll",
+        "lib/net6.0/System.Text.Encodings.Web.xml",
+        "lib/netcoreapp3.1/System.Text.Encodings.Web.dll",
+        "lib/netcoreapp3.1/System.Text.Encodings.Web.xml",
+        "lib/netstandard2.0/System.Text.Encodings.Web.dll",
+        "lib/netstandard2.0/System.Text.Encodings.Web.xml",
+        "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll",
+        "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.xml",
+        "system.text.encodings.web.6.0.0.nupkg.sha512",
+        "system.text.encodings.web.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Json/6.0.5": {
+      "sha512": "SSH+YYrMpvLcy7Orzb5K1tSyffnFacWahyxCCjYH1PbSHdAF4dekmIetBurFKgtTHDmwEe/J2Csi/7niRH6d/g==",
+      "type": "package",
+      "path": "system.text.json/6.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/roslyn3.11/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn3.11/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn4.0/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "build/System.Text.Json.targets",
+        "buildTransitive/netcoreapp2.0/System.Text.Json.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/net6.0/System.Text.Json.dll",
+        "lib/net6.0/System.Text.Json.xml",
+        "lib/netcoreapp3.1/System.Text.Json.dll",
+        "lib/netcoreapp3.1/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.6.0.5.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "FingerBTNWebCore/1.0.0": {
+      "type": "project",
+      "path": "../../FingerBTNWebCore/FingerBTNWebCore.csproj",
+      "msbuildProject": "../../FingerBTNWebCore/FingerBTNWebCore.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "FingerBTNWebCore >= 1.0.0",
+      "GenHTTP.Core >= 6.4.0",
+      "GenHTTP.Modules.Security >= 6.4.0",
+      "GenHTTP.Modules.Webservices >= 6.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "0.1.0",
+    "restore": {
+      "projectUniqueName": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BTNFingerWebAPI\\BTNFingerWebAPI\\BTNFingerWebAPI.csproj",
+      "projectName": "BTNFingerWebAPI",
+      "projectPath": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BTNFingerWebAPI\\BTNFingerWebAPI\\BTNFingerWebAPI.csproj",
+      "packagesPath": "C:\\Users\\Abdul Aziz\\.nuget\\packages\\",
+      "outputPath": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BTNFingerWebAPI\\BTNFingerWebAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Abdul Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\FingerBTNWebCore\\FingerBTNWebCore.csproj": {
+              "projectPath": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\FingerBTNWebCore\\FingerBTNWebCore.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "GenHTTP.Core": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "GenHTTP.Modules.Security": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "GenHTTP.Modules.Webservices": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

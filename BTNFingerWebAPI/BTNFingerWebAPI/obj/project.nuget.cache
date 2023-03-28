@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7CmhH1Zgn+5LU0LrfWHD0Z+HfFGAOkqAnJZ2fOUnaK621z87Z3JM+zFI94f/iieTPGt26D2nJQGfenHReQBJA==",
+  "success": true,
+  "projectFilePath": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BTNFingerWebAPI\\BTNFingerWebAPI\\BTNFingerWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.api\\6.4.0\\genhttp.api.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.core\\6.4.0\\genhttp.core.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.engine\\6.4.0\\genhttp.engine.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.basics\\6.4.0\\genhttp.modules.basics.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.clientcaching\\6.4.0\\genhttp.modules.clientcaching.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.compression\\6.4.0\\genhttp.modules.compression.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.conversion\\6.4.0\\genhttp.modules.conversion.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.errorhandling\\6.4.0\\genhttp.modules.errorhandling.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.io\\6.4.0\\genhttp.modules.io.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.layouting\\6.4.0\\genhttp.modules.layouting.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.pages\\6.4.0\\genhttp.modules.pages.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.placeholders\\6.4.0\\genhttp.modules.placeholders.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.practices\\6.4.0\\genhttp.modules.practices.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.reflection\\6.4.0\\genhttp.modules.reflection.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.security\\6.4.0\\genhttp.modules.security.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\genhttp.modules.webservices\\6.4.0\\genhttp.modules.webservices.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.0\\microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\pooledawait\\1.0.49\\pooledawait.1.0.49.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
