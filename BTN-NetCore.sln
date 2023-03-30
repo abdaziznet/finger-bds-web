@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleWebAPI", "SampleWebAP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSWebApp", "BDSWebApp\BDSWebApp.csproj", "{6A264142-D60F-4916-BF4A-6879FFE2B556}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTNFingerBackgroundService", "BTNFingerBackgroundService\BTNFingerBackgroundService.csproj", "{F0978851-B629-4A80-A200-E36DD0844517}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A264142-D60F-4916-BF4A-6879FFE2B556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0978851-B629-4A80-A200-E36DD0844517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0978851-B629-4A80-A200-E36DD0844517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0978851-B629-4A80-A200-E36DD0844517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0978851-B629-4A80-A200-E36DD0844517}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

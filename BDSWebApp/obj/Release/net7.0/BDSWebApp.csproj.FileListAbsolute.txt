@@ -1,0 +1,8 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.csproj.AssemblyReference.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.AssemblyInfoInputs.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.AssemblyInfo.cs
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.csproj.CoreCompileInputs.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.RazorAssemblyInfo.cache
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.RazorAssemblyInfo.cs

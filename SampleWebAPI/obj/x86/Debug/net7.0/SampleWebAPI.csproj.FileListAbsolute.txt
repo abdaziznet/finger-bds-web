@@ -33,3 +33,6 @@ C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\obj\x86\Debug\net7.0\refint\Samp
 C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\obj\x86\Debug\net7.0\SampleWebAPI.pdb
 C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\obj\x86\Debug\net7.0\SampleWebAPI.genruntimeconfig.cache
 C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\obj\x86\Debug\net7.0\ref\SampleWebAPI.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\bin\x86\Debug\net7.0\Microsoft.AspNetCore.Hosting.WindowsServices.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\bin\x86\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\SampleWebAPI\bin\x86\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll

@@ -23,7 +23,7 @@ namespace BTNFingerWebAPI.Services
                 return result;
             }
 
-            result.ResponseCode = err;
+            result.ResponseCode = errCode;
             result.ResponseMessage = errMessage.ToString();
             return result;
         }

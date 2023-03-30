@@ -29,3 +29,7 @@ C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Debug\net7.0\refint\BDSWebApp.d
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Debug\net7.0\BDSWebApp.pdb
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Debug\net7.0\BDSWebApp.genruntimeconfig.cache
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Debug\net7.0\ref\BDSWebApp.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Debug\net7.0\BDSWebApp.csproj.CopyComplete
