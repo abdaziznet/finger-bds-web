@@ -1,22 +1,30 @@
 ﻿@model LoginViewModel
 
 @{
-    ViewData["Title"] = "BDS Login";
+	ViewData["Title"] = "BDS Login";
+}
+
+@section Scripts {
+	<script src="~/js/login/login.js"></script>
 }
 
 <div class="row">
-    <div class="col-md-6 offset-md-3">
-        <h2>BDS Login</h2>
-        <hr />
-        <form asp-action="Login" method="post">
-            <div asp-validation-summary="All" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="TellerNumber"></label>
-                <input asp-for="TellerNumber" class="form-control" />
-                <span asp-validation-for="TellerNumber" class="text-danger"></span>
-            </div>
-            <br />
-            <button type="submit" id="btnLogin" class="btn btn-primary">Login</button>
-        </form>
-    </div>
+	<div class="col-md-6 offset-md-3">
+		<h2>BDS Login</h2>
+		<hr />
+		<form asp-action="Login" method="post">
+		@*<form id="formLogin">*@
+			<div asp-validation-summary="All" class="text-danger"></div>
+			<div class="form-group">
+				<label asp-for="TellerNumber"></label>
+				<input asp-for="TellerNumber" id="txtTellerNumber" class="form-control" />
+				<span asp-validation-for="TellerNumber" class="text-danger"></span>
+			</div>
+			<br />
+			<button type="button" id="btnLogin" class="btn btn-primary">Login</button>
+		</form>
+	</div>
 </div>
+
+
+@Html.Hidden("Login", Html.Raw(Url.Action("LoginSend", "Login")))

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J8OC6Jhsmccuwo2SL/e2EdvVcQTeg0rEtXv2deDVNSc=",
+  "Hash": "eP+AGYH2DgZq8I2KaAFT3MJCHY0d87t37Vr7vYTVFtM=",
   "Source": "BDSWebApp",
   "BasePath": "_content/BDSWebApp",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BDSWebApp\\wwwroot\\js\\login\\login.js",
+      "SourceId": "BDSWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BDSWebApp\\wwwroot\\",
+      "BasePath": "_content/BDSWebApp",
+      "RelativePath": "js/login/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login\\login.js"
     },
     {
       "Identity": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BDSWebApp\\wwwroot\\js\\site.js",

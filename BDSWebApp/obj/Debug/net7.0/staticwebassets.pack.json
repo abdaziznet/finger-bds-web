@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BDSWebApp\\wwwroot\\js\\login\\login.js",
+      "PackagePath": "staticwebassets\\js\\login\\login.js"
+    },
+    {
       "Id": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BDSWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
