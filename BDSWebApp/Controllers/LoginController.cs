@@ -2,10 +2,9 @@
 using BDSWebApp.Framework;
 using BDSWebApp.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Reflection;
-using System.Reflection.Metadata;
 using System.Text;
 
 namespace BDSWebApp.Controllers
@@ -26,9 +25,8 @@ namespace BDSWebApp.Controllers
 
 			if (response.ResponseCode != 0)
 			{
-				ErrorViewModel errorModel = new ErrorViewModel();
-				errorModel.RequestId = Guid.NewGuid().ToString();
-				return View("Error");
+				ModelState.AddModelError("", string.Format("Response code: {0} | Response message: {1}", response.ResponseCode.ToString(), response.ResponseMessage));
+				return View("Login");
 			}
 
 			return View("Login");
@@ -39,27 +37,23 @@ namespace BDSWebApp.Controllers
 		{
 			ServiceResponse response = new ServiceResponse();
 
-			if (!ModelState.IsValid)
-			{
-				ModelState.AddModelError("", "Invalid Teller Number");
-				return View();
-			}
-
 			LoginViewModel model = JsonConvert.DeserializeObject(dataModel, typeof(LoginViewModel)) as LoginViewModel;
+
+			if (string.IsNullOrEmpty(model.TellerNumber))
+			{
+				return new JsonResult(new { responseCode = 999, responseMessage = "Please put Teller Number" });
+			}
 
 			response = FingerSend(model.TellerNumber);
 
 			if (response == null)
 			{
-				ErrorViewModel errorModel = new ErrorViewModel();
-				errorModel.RequestId = Guid.NewGuid().ToString();
-				return View("Error");
+				return new JsonResult(new { responseCode = 999, responseMessage = "Response Message Null" });
 			}
 
 			if (response.ResponseCode != 0)
 			{
-				ModelState.AddModelError("", string.Format("Response Code: {0} | Response Message: {1}", response.ResponseCode, response.ResponseMessage));
-				return View();
+				return new JsonResult(new { responseCode = response.ResponseCode, responseMessage = response.ResponseMessage });
 			}
 
 			var jsonResult = new { responseCode = response.ResponseCode, responseMessage = response.ResponseMessage, url = Url.Action("LoginReceive", "Login") };
@@ -71,24 +65,31 @@ namespace BDSWebApp.Controllers
 		public IActionResult LoginReceive()
 		{
 			ServiceResponse response = new ServiceResponse();
+			Logger logger = new Logger();
 
-			response = FingerReceive();
-
-			if (response == null)
+			try
 			{
-				ErrorViewModel errorModel = new ErrorViewModel();
-				errorModel.RequestId = Guid.NewGuid().ToString();
-				return View("Error");
+				response = FingerReceive();
+
+				if (response == null)
+				{
+					ModelState.AddModelError("", "Response NULL");
+					return View("Login");
+				}
+
+				if (response.ResponseCode != 0)
+				{
+					ModelState.AddModelError("", string.Format("Response code: {0} | Response message: {1}", response.ResponseCode.ToString(), response.ResponseMessage));
+					return View("Login");
+				}
+
+			}
+			catch (Exception ex)
+			{
+				logger.Log(ex.Message);
 			}
 
-			if (response.ResponseCode != 0)
-			{
-				ModelState.AddModelError("", string.Format("Response Code: {0} | Response Message: {1}", response.ResponseCode, response.ResponseMessage));
-				return View("Login");
-			}
-
-
-			return RedirectToAction("Index","Home");
+			return RedirectToAction("Index", "Home");
 		}
 
 		public bool IsValidJson(string strInput)
@@ -124,9 +125,34 @@ namespace BDSWebApp.Controllers
 		private ServiceResponse FingerInit()
 		{
 			ServiceResponse response = new ServiceResponse();
-
+			Logger logger = new Logger();
 			try
 			{
+				logger.Log("Start finger init web api");
+
+				logger.Log("Start get client ip address ");
+
+				IConfiguration configuration = new ConfigurationBuilder()
+			.SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+			.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+			.Build();
+
+				string mode = configuration.GetSection("AppSettings")["Mode"];
+
+				string clientIP = string.Empty;
+				if (mode.ToLower() == "local")
+				{
+					clientIP = "localhost";
+				}
+				else
+				{
+					clientIP = Request.HttpContext.Connection.RemoteIpAddress.MapToIPv4().ToString();
+				}
+
+				logger.Log(string.Format("Client ip address: {0}", clientIP));
+
+				logger.Log("End get client ip address ");
+
 				var handler = new TimeoutHandler
 				{
 					DefaultTimeout = TimeSpan.FromSeconds(Convert.ToInt32(30)),
@@ -138,7 +164,7 @@ namespace BDSWebApp.Controllers
 				var jsonBody = JsonConvert.SerializeObject(clientInfo);
 				var requestBody = new StringContent(jsonBody, Encoding.UTF8, "application/json");
 
-				var url = @"http://localhost:8080/init";
+				var url = string.Format("http://{0}:8080/init", clientIP);
 
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
@@ -157,6 +183,7 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = "Invalid JsonResponse";
+						logger.Log("Invalid JsonResponse");
 						return response;
 					}
 
@@ -167,6 +194,8 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = "StatusCode Not Success";
+						logger.Log("StatusCode Not Success");
+
 						return response;
 					}
 
@@ -174,8 +203,12 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = string.Format("Response Code: {0} | Response Message: {1}", deserializeResp.ResponseCode, deserializeResp.ResponseMessage);
+						logger.Log(string.Format("Response Code: {0} | Response Message: {1}", deserializeResp.ResponseCode, deserializeResp.ResponseMessage));
+
 						return response;
 					}
+
+					logger.Log("Finger init web api success");
 
 				}
 			}
@@ -183,7 +216,12 @@ namespace BDSWebApp.Controllers
 			{
 				response.ResponseCode = 999;
 				response.ResponseMessage = ex.Message;
+				logger.Log(ex.Message);
 				return response;
+			}
+			finally
+			{
+				logger.Log("End finger init web api");
 			}
 
 			return response;
@@ -192,9 +230,29 @@ namespace BDSWebApp.Controllers
 		private ServiceResponse FingerSend(string tellerNumber)
 		{
 			ServiceResponse response = new ServiceResponse();
+			Logger logger = new Logger();
 
 			try
 			{
+				logger.Log("Start finger send web api");
+
+				IConfiguration configuration = new ConfigurationBuilder()
+			.SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+			.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+			.Build();
+
+				string mode = configuration.GetSection("AppSettings")["Mode"];
+
+				string clientIP = string.Empty;
+				if (mode.ToLower() == "local")
+				{
+					clientIP = "localhost";
+				}
+				else
+				{
+					clientIP = Request.HttpContext.Connection.RemoteIpAddress.MapToIPv4().ToString();
+				}
+
 				var handler = new TimeoutHandler
 				{
 					DefaultTimeout = TimeSpan.FromSeconds(Convert.ToInt32(30)),
@@ -207,7 +265,7 @@ namespace BDSWebApp.Controllers
 				var jsonBody = JsonConvert.SerializeObject(verifyFinger);
 				var requestBody = new StringContent(jsonBody, Encoding.UTF8, "application/json");
 
-				var url = @"http://localhost:8080/send";
+				var url = string.Format("http://{0}:8080/send", clientIP);
 
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
@@ -226,6 +284,8 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = "Invalid JsonResponse";
+						logger.Log("Invalid JsonResponse");
+
 						return response;
 					}
 
@@ -236,6 +296,8 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = "StatusCode Not Success";
+						logger.Log("StatusCode Not Success");
+
 						return response;
 					}
 
@@ -243,16 +305,25 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = deserializeResp.ResponseCode;
 						response.ResponseMessage = deserializeResp.ResponseMessage;
+						logger.Log(string.IsNullOrEmpty(deserializeResp.ResponseMessage) ? "OK" : deserializeResp.ResponseMessage);
+
 						return response;
 					}
 
+					logger.Log("Finger send web api success");
 				}
 			}
 			catch (Exception ex)
 			{
 				response.ResponseCode = 999;
 				response.ResponseMessage = ex.Message;
+				logger.Log(ex.Message);
+
 				return response;
+			}
+			finally
+			{
+				logger.Log("End finger send web api");
 			}
 
 			return response;
@@ -261,16 +332,36 @@ namespace BDSWebApp.Controllers
 		private ServiceResponse FingerReceive()
 		{
 			ServiceResponse response = new ServiceResponse();
+			Logger logger = new Logger();
 
 			try
 			{
+				logger.Log("Start finger receive web api");
+
+				IConfiguration configuration = new ConfigurationBuilder()
+			.SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+			.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+			.Build();
+
+				string mode = configuration.GetSection("AppSettings")["Mode"];
+
+				string clientIP = string.Empty;
+				if (mode.ToLower() == "local")
+				{
+					clientIP = "localhost";
+				}
+				else
+				{
+					clientIP = Request.HttpContext.Connection.RemoteIpAddress.MapToIPv4().ToString();
+				}
+
 				var handler = new TimeoutHandler
 				{
 					DefaultTimeout = TimeSpan.FromSeconds(Convert.ToInt32(30)),
 					InnerHandler = new HttpClientHandler()
 				};
 
-				var url = @"http://localhost:8080/receive";
+				var url = string.Format("http://{0}:8080/receive", clientIP);
 
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
@@ -288,6 +379,8 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = "Invalid JsonResponse";
+						logger.Log("Invalid JsonResponse");
+
 						return response;
 					}
 
@@ -298,15 +391,23 @@ namespace BDSWebApp.Controllers
 					{
 						response.ResponseCode = 999;
 						response.ResponseMessage = "StatusCode Not Success";
+						logger.Log("StatusCode Not Success");
+
 						return response;
 					}
+
+					logger.Log("Finger receive web api success");
 
 					if (deserializeResp.ResponseCode != 0)
 					{
 						response.ResponseCode = deserializeResp.ResponseCode;
 						response.ResponseMessage = deserializeResp.ResponseMessage;
+						logger.Log(string.Format("Response Code: {0} | Response Message: {1}", response.ResponseCode, response.ResponseMessage));
+
 						return response;
 					}
+
+					logger.Log(string.Format("Response Code: {0} | Response Message: {1}", response.ResponseCode, response.ResponseMessage));
 
 				}
 			}
@@ -314,129 +415,16 @@ namespace BDSWebApp.Controllers
 			{
 				response.ResponseCode = 999;
 				response.ResponseMessage = ex.Message;
+				logger.Log(ex.Message);
+
 				return response;
+			}
+			finally
+			{
+				logger.Log("End finger receive web api");
 			}
 
 			return response;
 		}
-
-
-		//if (ModelState.IsValid)
-		//{
-		//    FingerResultViewModel fingerResultViewModel = new FingerResultViewModel();
-		//    try
-		//    {
-		//        var handlerSend = new TimeoutHandler
-		//        {
-		//            DefaultTimeout = TimeSpan.FromSeconds(Convert.ToInt32(30)),
-		//            InnerHandler = new HttpClientHandler()
-		//        };
-
-		//        VerifyFinger verifyFinger = new VerifyFinger();
-		//        verifyFinger.TellerNumber = model.TellerNumber;
-
-
-		//        var jsonBody = JsonConvert.SerializeObject(verifyFinger);
-		//        var requestBody = new StringContent(jsonBody, Encoding.UTF8, "application/json");
-		//        //string rawUrl = @"http://localhost:8080/send";
-		//        //if (rawUrl.Substring(rawUrl.Length - 1) == "/")
-		//        //{
-		//        //    rawUrl = rawUrl.Remove(rawUrl.Length - 1);
-		//        //}
-		//        var urlSend = @"http://localhost:8080/send";
-		//        var urlReceive = @"http://localhost:8080/receive";
-
-
-		//        System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
-
-		//        using (var ctsSend = new CancellationTokenSource())
-		//        using (var clientSend = new HttpClient(handlerSend))
-		//        {
-		//            clientSend.Timeout = Timeout.InfiniteTimeSpan;
-		//            var requestSend = new HttpRequestMessage(HttpMethod.Post, urlSend);
-		//            requestSend.Content = requestBody;
-
-		//            string jsonResponseSend = string.Empty;
-		//            var response = clientSend.SendAsync(requestSend, ctsSend.Token);
-		//            jsonResponseSend = response.Result.Content.ReadAsStringAsync().Result;
-
-		//            if (!IsValidJson(jsonResponseSend))
-		//            {
-		//                ModelState.AddModelError("", "Invalid JsonResponse");
-		//                return View();
-		//            }
-
-		//            var deserializeRespSend = new ServiceResponse();
-		//            deserializeRespSend = JsonConvert.DeserializeObject<ServiceResponse>(jsonResponseSend);
-
-		//            if (!response.Result.IsSuccessStatusCode)
-		//            {
-		//                ModelState.AddModelError("", response.Result.StatusCode.ToString());
-		//                return View();
-		//            }
-
-		//            if (deserializeRespSend.ResponseCode != 0)
-		//            {
-
-		//                ModelState.AddModelError("", string.Format("Response Code: {0} | Response Message: {1}", deserializeRespSend.ResponseCode, deserializeRespSend.ResponseMessage));
-		//                return View();
-		//            }
-
-		//        }
-
-		//        var handlerReceive = new TimeoutHandler
-		//        {
-		//            DefaultTimeout = TimeSpan.FromSeconds(Convert.ToInt32(30)),
-		//            InnerHandler = new HttpClientHandler()
-		//        };
-
-		//        using (var ctsReceive = new CancellationTokenSource())
-		//        using (var clientReceive = new HttpClient(handlerReceive))
-		//        {
-		//            clientReceive.Timeout = Timeout.InfiniteTimeSpan;
-		//            var request = new HttpRequestMessage(HttpMethod.Post, urlReceive);
-
-		//            string jsonResponseReceive = string.Empty;
-		//            var response = clientReceive.SendAsync(request, ctsReceive.Token);
-		//            jsonResponseReceive = response.Result.Content.ReadAsStringAsync().Result;
-
-		//            if (!IsValidJson(jsonResponseReceive))
-		//            {
-		//                ModelState.AddModelError("", "Invalid JsonResponse");
-		//                return View();
-		//            }
-
-		//            var deserializeRespReceive = new ServiceResponse();
-		//            deserializeRespReceive = JsonConvert.DeserializeObject<ServiceResponse>(jsonResponseReceive);
-
-		//            if (!response.Result.IsSuccessStatusCode)
-		//            {
-		//                ModelState.AddModelError("", response.Result.StatusCode.ToString());
-		//                return View();
-		//            }
-
-		//            if (deserializeRespReceive.ResponseCode != 0)
-		//            {
-
-		//                ModelState.AddModelError("", string.Format("Response Code: {0} | Response Message: {1}", deserializeRespReceive.ResponseCode, deserializeRespReceive.ResponseMessage));
-		//                return View();
-		//            }
-
-		//        }
-
-
-		//    }
-		//    catch (Exception ex)
-		//    {
-		//        ModelState.AddModelError("", ex.Message);
-		//        return View();
-		//    }
-
-		//}
-		//else
-		//{
-		//    ModelState.AddModelError("", "Invalid Teller Number");
-		//    return View();
-		//}
 	}
 }

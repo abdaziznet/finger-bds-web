@@ -8,13 +8,13 @@
 	<script src="~/js/login/login.js"></script>
 }
 
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
 <div class="row">
 	<div class="col-md-6 offset-md-3">
 		<h2>BDS Login</h2>
 		<hr />
 		<form asp-action="Login" method="post">
-		@*<form id="formLogin">*@
-			<div asp-validation-summary="All" class="text-danger"></div>
+			<div asp-validation-skummary="All" class="text-danger"></div>
 			<div class="form-group">
 				<label asp-for="TellerNumber"></label>
 				<input asp-for="TellerNumber" id="txtTellerNumber" class="form-control" />

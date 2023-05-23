@@ -1,0 +1,10 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\BDSWebApp.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\BDSWebApp.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\BDSWebApp.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\BDSWebApp.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\BDSWebApp.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
