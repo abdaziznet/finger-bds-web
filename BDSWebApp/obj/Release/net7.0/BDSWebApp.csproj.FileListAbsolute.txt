@@ -33,3 +33,8 @@ C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\refint\BDSWebApp
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.pdb
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\BDSWebApp.genruntimeconfig.cache
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\obj\Release\net7.0\ref\BDSWebApp.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Release\net7.0\Publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Release\net7.0\Publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Release\net7.0\Publish\BDSWebApp.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Release\net7.0\Publish\BDSWebApp.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\bin\Release\net7.0\Publish\web.config

@@ -353,13 +353,318 @@ C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\obj\Release\net7.0\win-
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\obj\Release\net7.0\win-x86\BTNFingerWebApiWinSvc.pdb
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\obj\Release\net7.0\win-x86\BTNFingerWebApiWinSvc.genruntimeconfig.cache
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\obj\Release\net7.0\win-x86\ref\BTNFingerWebApiWinSvc.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\web.config
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\web.config
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\appsettings.Development.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\appsettings.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\BTNFingerWebApiWinSvc.deps.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\web.config
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\web.config
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\appsettings.Development.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\appsettings.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\BTNFingerWebApiWinSvc.deps.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\bin\Release\net7.0\win-x86\publish\publish\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json

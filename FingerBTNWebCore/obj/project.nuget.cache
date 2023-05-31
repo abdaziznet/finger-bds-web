@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cgT7e1YE1eU2DUXQ4SS/ZjO7lfAxNAO8u3lKtR/cscHLqHoCxVw1c+MZa9jho5AaCnjlXkX9sKqeWfWPov6bmA==",
+  "dgSpecHash": "+ljHgW7uagwr4p9Hl9jX2DxQpQE6bdipOpr9G9im8Z6NqCdM7OmbtVpLHq184cG8JjKXNSM3Q07ECzbMsuTsIA==",
   "success": true,
   "projectFilePath": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\FingerBTNWebCore\\FingerBTNWebCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.4\\microsoft.netcore.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x86.7.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

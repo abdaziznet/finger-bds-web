@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v70XzV9PzaDORyGhtC9eIAkrlhcBpYWm5IPyhO/A2H6htS35GyV3D9TgkpvotyzTKfx1+EtNmwQoATZH3Bstpw==",
+  "dgSpecHash": "ijBYQy4Qn6q6bXbIZ0UQkb1pDaoNqkYOKY0lPjLYiKPn0zRGbK2HMJZmO1NzCFbY7qB09zZv/jGkHjbO0JASBQ==",
   "success": true,
   "projectFilePath": "C:\\05-Labs\\11-core\\BTN\\BTN-NetCore\\BTNFingerWebApiWinSvc\\BTNFingerWebApiWinSvc.csproj",
   "expectedPackageFiles": [
@@ -40,7 +40,10 @@
     "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512",
     "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.4\\microsoft.netcore.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "C:\\Users\\Abdul Aziz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x86.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }

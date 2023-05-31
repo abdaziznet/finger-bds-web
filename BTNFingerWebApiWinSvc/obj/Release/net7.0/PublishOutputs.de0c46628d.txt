@@ -1,0 +1,192 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BTNFingerWebApiWinSvc.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\web.config
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish no win service\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\publish\publish\publish\publish\publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BTNFingerWebApiWinSvc.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BTNFingerWebApiWinSvc.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BTNFingerWebApiWinSvc.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BTNFingerWebApiWinSvc.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Microsoft.AspNetCore.OpenApi.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Microsoft.OpenApi.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\System.ServiceProcess.ServiceController.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\FingerBTNWebCore.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\FingerBTNWebCore.pdb

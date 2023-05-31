@@ -5,14 +5,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using System.Net;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 
 namespace BDSWebApp.Controllers
 {
 	public class LoginController : Controller
 	{
-		private const string PORT = "8070";
+		private const string PORT = "5000";
 
 		[HttpGet]
 		public IActionResult Index()
@@ -170,7 +172,6 @@ namespace BDSWebApp.Controllers
 				var url = string.Format("http://{0}:{1}/Finger/init", clientIP, PORT);
 				logger.Log(string.Format("Url init: {0}", url));
 
-
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
 				using (var cts = new CancellationTokenSource())
@@ -182,10 +183,18 @@ namespace BDSWebApp.Controllers
 
 					// Set request headers
 					client.DefaultRequestHeaders.Add("accept", "*/*");
+					//client.DefaultRequestHeaders.ConnectionClose = true;
+					//client.BaseAddress = new Uri(url);
 
 					string jsonResponse = string.Empty;
+
 					var responseApi = client.SendAsync(request, cts.Token);
+
+					logger.Log("start ReadAsStringAsync http client");
+
 					jsonResponse = responseApi.Result.Content.ReadAsStringAsync().Result;
+
+					logger.Log($"{jsonResponse}");
 
 					if (!IsValidJson(jsonResponse))
 					{
