@@ -170,7 +170,6 @@ namespace BDSWebApp.Controllers
 				var requestBody = new StringContent(jsonBody, Encoding.UTF8, "application/json");
 
 				var url = string.Format("http://{0}:{1}/Finger/init", clientIP, PORT);
-				logger.Log(string.Format("Url init: {0}", url));
 
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
@@ -182,19 +181,10 @@ namespace BDSWebApp.Controllers
 					request.Content = requestBody;
 
 					// Set request headers
-					client.DefaultRequestHeaders.Add("accept", "*/*");
-					//client.DefaultRequestHeaders.ConnectionClose = true;
-					//client.BaseAddress = new Uri(url);
-
+					//client.DefaultRequestHeaders.Add("accept", "*/*");
 					string jsonResponse = string.Empty;
-
 					var responseApi = client.SendAsync(request, cts.Token);
-
-					logger.Log("start ReadAsStringAsync http client");
-
 					jsonResponse = responseApi.Result.Content.ReadAsStringAsync().Result;
-
-					logger.Log($"{jsonResponse}");
 
 					if (!IsValidJson(jsonResponse))
 					{
@@ -283,7 +273,6 @@ namespace BDSWebApp.Controllers
 				var requestBody = new StringContent(jsonBody, Encoding.UTF8, "application/json");
 
 				var url = string.Format("http://{0}:{1}/Finger/send", clientIP, PORT);
-				logger.Log(string.Format("Url init: {0}", url));
 
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
@@ -293,9 +282,6 @@ namespace BDSWebApp.Controllers
 					client.Timeout = Timeout.InfiniteTimeSpan;
 					var request = new HttpRequestMessage(HttpMethod.Post, url);
 					request.Content = requestBody;
-
-					// Set request headers
-					client.DefaultRequestHeaders.Add("accept", "*/*");
 
 					string jsonResponse = string.Empty;
 					var responseApi = client.SendAsync(request, cts.Token);
@@ -383,7 +369,6 @@ namespace BDSWebApp.Controllers
 				};
 
 				var url = string.Format("http://{0}:{1}/Finger/receive", clientIP, PORT);
-				logger.Log(string.Format("Url init: {0}", url));
 
 				System.Net.ServicePointManager.ServerCertificateValidationCallback = (senderX, certificate, chain, sslPolicyErrors) => { return true; };
 
@@ -392,9 +377,6 @@ namespace BDSWebApp.Controllers
 				{
 					client.Timeout = Timeout.InfiniteTimeSpan;
 					var request = new HttpRequestMessage(HttpMethod.Post, url);
-
-					// Set request headers
-					client.DefaultRequestHeaders.Add("accept", "*/*");
 
 					string jsonResponse = string.Empty;
 					var responseApi = client.SendAsync(request, cts.Token);
