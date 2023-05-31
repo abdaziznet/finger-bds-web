@@ -1,0 +1,1 @@
+dotnet publish -c Release -r win-x86 --self-contained true --output "C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerWebApiWinSvc\publish"

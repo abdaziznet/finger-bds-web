@@ -1,0 +1,5 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\publish\ConsAppCallBTNLibrary.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\publish\ConsAppCallBTNLibrary.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\publish\ConsAppCallBTNLibrary.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\publish\ConsAppCallBTNLibrary.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppCallBTNLibrary\bin\x86\Debug\net7.0\publish\ConsAppCallBTNLibrary.pdb

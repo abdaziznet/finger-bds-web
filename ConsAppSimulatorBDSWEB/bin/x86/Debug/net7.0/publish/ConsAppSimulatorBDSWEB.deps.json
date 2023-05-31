@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsAppSimulatorBDSWEB/1.0.0": {
+        "dependencies": {
+          "FingerBTNWebCore": "1.0.0"
+        },
+        "runtime": {
+          "ConsAppSimulatorBDSWEB.dll": {}
+        }
+      },
+      "FingerBTNWebCore/1.0.0": {
+        "runtime": {
+          "FingerBTNWebCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsAppSimulatorBDSWEB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FingerBTNWebCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

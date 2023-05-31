@@ -1,0 +1,14 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\BTNFingerBackgroundService.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\BTNFingerBackgroundService.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\BTNFingerBackgroundService.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\BTNFingerBackgroundService.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\BTNFingerBackgroundService.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\Microsoft.AspNetCore.Hosting.WindowsServices.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\Microsoft.Extensions.Configuration.Binder.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\Microsoft.Extensions.Hosting.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\Microsoft.Extensions.Options.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\System.ServiceProcess.ServiceController.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\BTNFingerBackgroundService\bin\Debug\net7.0\publish\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll

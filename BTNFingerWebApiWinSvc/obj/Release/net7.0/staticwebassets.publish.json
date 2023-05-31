@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SjBBWCtnZh2ruxyqfGV1oAGzyBLTCMPoiE0CUW3jz8s=",
+  "Source": "BTNFingerWebApiWinSvc",
+  "BasePath": "_content/BTNFingerWebApiWinSvc",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

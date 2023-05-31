@@ -1,0 +1,431 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BTNFingerWebAPI/0.1.0": {
+        "dependencies": {
+          "FingerBTNWebCore": "1.0.0",
+          "GenHTTP.Core": "6.4.0",
+          "GenHTTP.Modules.Security": "6.4.0",
+          "GenHTTP.Modules.Webservices": "6.4.0"
+        },
+        "runtime": {
+          "BTNFingerWebAPI.dll": {}
+        }
+      },
+      "GenHTTP.Api/6.4.0": {
+        "runtime": {
+          "lib/net6.0/GenHTTP.Api.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Core/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Engine": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.Layouting": "6.4.0",
+          "GenHTTP.Modules.Practices": "6.4.0"
+        }
+      },
+      "GenHTTP.Engine/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.ErrorHandling": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0",
+          "GenHTTP.Modules.Placeholders": "6.4.0",
+          "PooledAwait": "1.0.49",
+          "System.IO.Pipelines": "6.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Engine.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Basics/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "System.Text.Json": "6.0.5"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Basics.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.ClientCaching/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "PooledAwait": "1.0.49"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.ClientCaching.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Compression/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Compression.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Conversion/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "PooledAwait": "1.0.49"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Conversion.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.ErrorHandling/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Pages": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.ErrorHandling.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.IO/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.Pages": "6.4.0",
+          "PooledAwait": "1.0.49"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.IO.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Layouting/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Layouting.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Pages/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "Microsoft.IO.RecyclableMemoryStream": "2.2.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Pages.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Placeholders/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Placeholders.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Practices/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.ClientCaching": "6.4.0",
+          "GenHTTP.Modules.Compression": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0",
+          "GenHTTP.Modules.Security": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Practices.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Reflection/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Conversion": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Reflection.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Security/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Security.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "GenHTTP.Modules.Webservices/6.4.0": {
+        "dependencies": {
+          "GenHTTP.Api": "6.4.0",
+          "GenHTTP.Modules.Basics": "6.4.0",
+          "GenHTTP.Modules.Conversion": "6.4.0",
+          "GenHTTP.Modules.IO": "6.4.0",
+          "GenHTTP.Modules.Layouting": "6.4.0",
+          "GenHTTP.Modules.Reflection": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/GenHTTP.Modules.Webservices.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "Microsoft.IO.RecyclableMemoryStream/2.2.0": {
+        "runtime": {
+          "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "PooledAwait/1.0.49": {
+        "runtime": {
+          "lib/netcoreapp3.0/PooledAwait.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.48.55943"
+          }
+        }
+      },
+      "System.IO.Pipelines/6.0.3": {
+        "runtime": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21309"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Text.Encodings.Web/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      },
+      "System.Text.Json/6.0.5": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "6.0.0"
+        }
+      },
+      "FingerBTNWebCore/1.0.0": {
+        "runtime": {
+          "FingerBTNWebCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTNFingerWebAPI/0.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenHTTP.Api/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6wl1HQzjrJLnyOZJMg5G+35E7OOtvajnNmuAxd6nM7OY2iyilHf03uxOpDQLhwH4W6B3lYRBa5qCBZsdXJCYow==",
+      "path": "genhttp.api/6.4.0",
+      "hashPath": "genhttp.api.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Core/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e4IugbWB1CER4zSMif2+fGH+cpuDNhTFLkQ4SmX3qVvriQN8Vovx8CNdKdmD4CUzFYHzdprJMDbJH5DU9/3K/Q==",
+      "path": "genhttp.core/6.4.0",
+      "hashPath": "genhttp.core.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Engine/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xhZMyOpmmqUdYdm9olf48uAg9mdUnwxh3nnQPSiLSc4efcHDDt2Wre2oY/bPGlaImL5H9ychxtDwwMvDmVyoWQ==",
+      "path": "genhttp.engine/6.4.0",
+      "hashPath": "genhttp.engine.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Basics/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-02omssEFV4uTDbJt9QXkudkirjeOWD2WYe8E+sd33cvO6W34V3BScRjRuW4HVoQjdhIEtwihzXFPL9flRBz5Qg==",
+      "path": "genhttp.modules.basics/6.4.0",
+      "hashPath": "genhttp.modules.basics.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.ClientCaching/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZVvG6UO93OVn+7zGIPiZGao3ylLo7EbXFVzMrYIfrWXxEF9yOTQUCd1LRqXOacSmFA3rhkuP1vcZDhhBLFpf5Q==",
+      "path": "genhttp.modules.clientcaching/6.4.0",
+      "hashPath": "genhttp.modules.clientcaching.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Compression/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PzIGRneyA4QDf4FPNPPAKTjYaqdpEQVf2aRqdsdk8PLvLazE3OdBCF2Utg3IrP4an4E3a1r1aABdPPNLK7Ef0Q==",
+      "path": "genhttp.modules.compression/6.4.0",
+      "hashPath": "genhttp.modules.compression.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Conversion/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LIKsg4waC7FFR40/X3IEytt63Tf4veg45YeMViglnFBSNOCnT2uuCDFbLkM6jtoUG6HF+Z2wa/iTGzL796M4cg==",
+      "path": "genhttp.modules.conversion/6.4.0",
+      "hashPath": "genhttp.modules.conversion.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.ErrorHandling/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aopfytLuUet/3PcRbzDQxFoJPd6j0uODxela57yjiRrZ57bpQnqN4xygux35u5iicPMhpXfFV8VzMGGJNvPcDQ==",
+      "path": "genhttp.modules.errorhandling/6.4.0",
+      "hashPath": "genhttp.modules.errorhandling.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.IO/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u9h89dSJT6vJMXCOyl/CT3EadgyJ2rGZMMcY01ixk5cg4OAW9GWOlCzt+SH+AdhZf+G1MM7VBqI23Jxhhrgz0A==",
+      "path": "genhttp.modules.io/6.4.0",
+      "hashPath": "genhttp.modules.io.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Layouting/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7SFNU8EF59aJK+gwLrR1F1A67IbYrT4Twb8Lw8wV15ByPAA4hmfgCtZkvdYUZQAvp6QIO9K9qRxbaGzK4v1u+Q==",
+      "path": "genhttp.modules.layouting/6.4.0",
+      "hashPath": "genhttp.modules.layouting.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Pages/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zrgvlLREt3EUuuBA1DbpBDAI687Ry6n+CVbJGcLy5OWIDIv3zrYqLTUtpEv56Dwq4ajnVr28MIVX4p0a6oh/Sw==",
+      "path": "genhttp.modules.pages/6.4.0",
+      "hashPath": "genhttp.modules.pages.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Placeholders/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p3USxx+NEfY4+H+gaFIYEnnv9ufoqbIsz0tTTNtSjXXc8FRqr5TOrFO5T2fSgtVAsv21FT3/eL2L18SUqMETTQ==",
+      "path": "genhttp.modules.placeholders/6.4.0",
+      "hashPath": "genhttp.modules.placeholders.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Practices/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SxGDRr8F8Pa+Ah2TBCI2YCFvwpgFrhsh2rEyuze5CM1d4+QKZ971yUnpSKTYr8Sa3TvBpk301rMkpb3SVIQcmQ==",
+      "path": "genhttp.modules.practices/6.4.0",
+      "hashPath": "genhttp.modules.practices.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Reflection/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vygfsJO7NzCNJaTcjSAT6WsROdgDU0y3AN7ACBOjcL8P90F8gmO0INddHiPgzhZZpVR4rZEHAR9L6yc5SX+SYQ==",
+      "path": "genhttp.modules.reflection/6.4.0",
+      "hashPath": "genhttp.modules.reflection.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Security/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jJRwibx7YMWGdN+Td3K98GITHg9ruE0UMfk9PG+7MVXxchzvz9uGeee7b698btyXQYjgstGL/vJ+9BYdyMVizA==",
+      "path": "genhttp.modules.security/6.4.0",
+      "hashPath": "genhttp.modules.security.6.4.0.nupkg.sha512"
+    },
+    "GenHTTP.Modules.Webservices/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-igxKOAvC5Yk4r4iHGyLharClzJjjmIXxW+ouLJ4RIM8+2eqX9FM0K9A1A/UCYw/XjAd5uA4/JWtMPIQLI5Nk4w==",
+      "path": "genhttp.modules.webservices/6.4.0",
+      "hashPath": "genhttp.modules.webservices.6.4.0.nupkg.sha512"
+    },
+    "Microsoft.IO.RecyclableMemoryStream/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uyjY/cqomw1irT4L7lDeg4sJ36MsjHg3wKqpGrBAdzvZaxo85yMF+sAA9RIzTV92fDxuUzjqksMqA0+SNMkMgA==",
+      "path": "microsoft.io.recyclablememorystream/2.2.0",
+      "hashPath": "microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512"
+    },
+    "PooledAwait/1.0.49": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-stq3Af/4ptnLFbtrniDcZCeSl0JtZoiTnPHm1pkJ6sQM07Jj1zG9NN5rOP5dVh2VNSblloKTxBVAnBJ8MktlFw==",
+      "path": "pooledawait/1.0.49",
+      "hashPath": "pooledawait.1.0.49.nupkg.sha512"
+    },
+    "System.IO.Pipelines/6.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==",
+      "path": "system.io.pipelines/6.0.3",
+      "hashPath": "system.io.pipelines.6.0.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vg8eB5Tawm1IFqj4TVK1czJX89rhFxJo9ELqc/Eiq0eXy13RK00eubyU6TJE6y+GQXjyV5gSfiewDUZjQgSE0w==",
+      "path": "system.text.encodings.web/6.0.0",
+      "hashPath": "system.text.encodings.web.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SSH+YYrMpvLcy7Orzb5K1tSyffnFacWahyxCCjYH1PbSHdAF4dekmIetBurFKgtTHDmwEe/J2Csi/7niRH6d/g==",
+      "path": "system.text.json/6.0.5",
+      "hashPath": "system.text.json.6.0.5.nupkg.sha512"
+    },
+    "FingerBTNWebCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

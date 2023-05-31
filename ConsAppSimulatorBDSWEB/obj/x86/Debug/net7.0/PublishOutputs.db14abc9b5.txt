@@ -1,0 +1,7 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\ConsAppSimulatorBDSWEB.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\ConsAppSimulatorBDSWEB.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\ConsAppSimulatorBDSWEB.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\ConsAppSimulatorBDSWEB.runtimeconfig.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\ConsAppSimulatorBDSWEB.pdb
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\FingerBTNWebCore.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\ConsAppSimulatorBDSWEB\bin\x86\Debug\net7.0\publish\FingerBTNWebCore.pdb

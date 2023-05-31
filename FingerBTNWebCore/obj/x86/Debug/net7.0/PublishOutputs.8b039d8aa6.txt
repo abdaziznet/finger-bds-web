@@ -1,0 +1,3 @@
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\bin\x86\Debug\net7.0\publish\FingerBTNWebCore.dll
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\bin\x86\Debug\net7.0\publish\FingerBTNWebCore.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\FingerBTNWebCore\bin\x86\Debug\net7.0\publish\FingerBTNWebCore.pdb
