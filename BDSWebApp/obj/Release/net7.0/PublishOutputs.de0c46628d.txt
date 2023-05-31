@@ -1,6 +1,11 @@
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BDSWebApp.exe
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Publish\web.config
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\appsettings.Development.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Publish\appsettings.Development.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Publish\appsettings.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Publish\BDSWebApp.deps.json
+C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\Publish\BDSWebApp.runtimeconfig.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BDSWebApp.dll
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BDSWebApp.deps.json
 C:\05-Labs\11-core\BTN\BTN-NetCore\BDSWebApp\Publish\BDSWebApp.runtimeconfig.json
